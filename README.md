@@ -17,6 +17,8 @@ It would not be a website, or a particular organization, it would be a community
 
 ---
 
+### More Goals
+
 * List of socialist companies, minority-owned/operated companies, noprofits, charities, individuals in need, as alternatives to capitalist ones
 
 * Beyond listing companies, the generalized issue is collectively operated supply-chain management of these systems.
