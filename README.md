@@ -112,7 +112,7 @@ A: Nobody!
 
 #####Q: How? Are you a wizard? 
 
-A: No! This is just one of the many benefits of decentralized/distributed applications. Rather than donate money, people can donate computational resources like storage and processing to the network by running software to allow them to participate as a node in the network. Other benefits include: 
+A: No! This is just one of the many benefits of decentralized/distributed applications. Rather than donate money to pay for 3rd-party hosting or expensive data-centers, people can donate computational resources like storage and processing to the network by running software to allow them to participate as a node in the network. Other benefits include: 
 
 * the removal of the necessity for centralized authority which would have a priveleged level of control, 
 
