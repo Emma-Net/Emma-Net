@@ -5,8 +5,9 @@ Disclaimer: "socialism" as used in this document will refer to "non-exploitative
 
 
 ###Goal:
-    The goal is to provide a unified integrating framework for finding, building, and participating in non-exploitative, anti-capitalist alternatives to the goods, services, and organizations of capitalist society.
-    It would not be a website, or a particular organization, it would be a community of people devoted to the cause of ending discrimination and exploitation everywhere, and replacing capitalism with socialism as the basis for our society, along with 
+The goal is to provide a unified integrating framework for finding, building, and participating in non-exploitative, anti-capitalist alternatives to the goods, services, and organizations of capitalist society.
+
+It would not be a website, or a particular organization, it would be a community of people devoted to the cause of ending discrimination and exploitation everywhere, and replacing capitalism with socialism as the basis for our society, along with 
 
     a) a network facilitating the interaction between members of the community, 
 
@@ -16,21 +17,21 @@ Disclaimer: "socialism" as used in this document will refer to "non-exploitative
 
 ---
 
-    List of socialist companies, minority-owned/operated companies, noprofits, charities, individuals in need, as alternatives to capitalist ones
+* List of socialist companies, minority-owned/operated companies, noprofits, charities, individuals in need, as alternatives to capitalist ones
 
-    Beyond listing companies, the generalized issue is collectively operated supply-chain management of these systems.
+* Beyond listing companies, the generalized issue is collectively operated supply-chain management of these systems.
 
-    List of Politicians who represent our causes
+* List of Politicians who represent our causes
 
-    Perhaps we can require politicians who claim to be representative of us to derive all actions taken from consensus of the community, for example through legally binding contract maintained by the community.
+** Perhaps we can require politicians who claim to be representative of us to derive all actions taken from consensus of the community, for example through legally binding contract maintained by the community.
 
-    General platform for education about non-exploitative, anti-capitalist alternatives
+* General platform for education about non-exploitative, anti-capitalist alternatives
 
-    Also, transparency of interaction between participants
+** Also, transparency of interaction between participants
 
-    Currently our knowledge, resources, and activities are spread thin across many different sites, repositories, and organizations. This is but one of the many facets of the information overload. Effectively managing this puts us all into a better position to be aware and make informed decisions. 
+* Currently our knowledge, resources, and activities are spread thin across many different sites, repositories, and organizations. This is but one of the many facets of the information overload. Effectively managing this puts us all into a better position to be aware and make informed decisions. 
 
-    In stoopkid's opinion, capitalist society is inherently incapable of competing with us along these ends: there is no solidarity or unity under capitalism; individuals and organizations who would wish to do the same as this will (and do) find themselves at a complete loss for how to make it happen. This is because each individual and organization working selfishly and alone towards these ends simply increases the magnitude of the information overload to begin with, and receives no support from the rest. Even Google struggles to manage it. Our unity is our greatest advantage; an advantage which will never, can never (almost by definition) be shared by capitalists.
+* In stoopkid's opinion, capitalist society is inherently incapable of competing with us along these ends: there is no solidarity or unity under capitalism; individuals and organizations who would wish to do the same as this will (and do) find themselves at a complete loss for how to make it happen. This is because each individual and organization working selfishly and alone towards these ends simply increases the magnitude of the information overload to begin with, and receives no support from the rest. Even Google struggles to manage it. Our unity is our greatest advantage; an advantage which will never, can never (almost by definition) be shared by capitalists.
 
 ---
 
@@ -54,7 +55,7 @@ Q: You mean you don't have a heirarchy of leadership???? How can that be??
 
 A: ... why would we? :)
 
-    "I don't trust any one man, or any committee to decide what's good for everyone. giving the power to any X, and assuming they will "do greater good" is plain folly, imho" -- some wise person
+"I don't trust any one man, or any committee to decide what's good for everyone. giving the power to any X, and assuming they will "do greater good" is plain folly, imho" -- some wise person
 
 
 ---
@@ -81,11 +82,11 @@ Mutual trust and common direction is the ultimate foundation on which this rests
 
 Motivate people to go through the platform to sign up for the "alernative services" by generating coupon codes or something? (Would give better metrics of reach of the platform)
 
-    We might even have our own 'currency' :O
+* We might even have our own 'currency' :O
 
 Transparency of these metrics could drive more people switching to these alternatives (as well as keep out those who we probably don't want :)
 
-    And would also make the system much more efficient in general. Transparency of things like "I have X" and "I need X" can allow for people to be linked together automatically. I'm not religious, but the aftermath in the story of the tower of Babel (i.e. everybody being split into different languages so that they could not communicate towards such ends) is very much like our current situation.Interesting point. Difference of culture/language shouldn't be barriers. Technology could potentially bridge such barriers as we have at least the common purpose of socialism.Absolutely. The way i sort of think of it is reversing the divide-and-conquer trick that's currently played on everybody.Yes. Instead of dividing, unite people.
+And would also make the system much more efficient in general. Transparency of things like "I have X" and "I need X" can allow for people to be linked together automatically. I'm not religious, but the aftermath in the story of the tower of Babel (i.e. everybody being split into different languages so that they could not communicate towards such ends) is very much like our current situation.Interesting point. Difference of culture/language shouldn't be barriers. Technology could potentially bridge such barriers as we have at least the common purpose of socialism.Absolutely. The way i sort of think of it is reversing the divide-and-conquer trick that's currently played on everybody.Yes. Instead of dividing, unite people.
 
 "Distribute it under a license that they can't incorporate into their capitalist projects"
 
@@ -154,9 +155,10 @@ Transparency of these metrics could drive more people switching to these alterna
 ---
 
 ###Misc:
-	Incidentally, when we say "minorities", we should probably think about the different anti's on the channel in finding these.
+* Incidentally, when we say "minorities", we should probably think about the different anti's on the channel in finding these.
 
-        E.g. how about options for people with disabilities for using the platform? Should think about this from the first launch? Absolutely we should
+E.g. how about options for people with disabilities for using the platform? Should think about this from the first launch? Absolutely we should
 
-Also to consider: how do we make the development of the platform participatory? Feedback? Dev contributions? Probably on GitHub or something?
-   This one is a hard question, with few solutions today that are fully satisfactory. But IMO block-chain technology can allow for this in a much more satisfactory manner. It allows for consensus to be formed and maintained in a fully decentralized environment, for example: consensus about the code-base of the network. It can also serve as a store of value, which has interesting implications (including the ability to redefine the *meaning* of value in ways that are more in-line with our views).
+* Also to consider: how do we make the development of the platform participatory? Feedback? Dev contributions? Probably on GitHub or something?
+
+This one is a hard question, with few solutions today that are fully satisfactory. But IMO block-chain technology can allow for this in a much more satisfactory manner. It allows for consensus to be formed and maintained in a fully decentralized environment, for example: consensus about the code-base of the network. It can also serve as a store of value, which has interesting implications (including the ability to redefine the *meaning* of value in ways that are more in-line with our views).
