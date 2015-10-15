@@ -141,7 +141,7 @@ A: No! This is just one of the many benefits of decentralized/distributed applic
 
 ###Name:
 
-I think naming it after a non-male figure of social justice would be good. Some possibilities which have been suggested:
+I think naming it after a non-male revolutionary figure would be good. Some possibilities which have been suggested:
 
 * Emma Goldman (the current namesake)
 
