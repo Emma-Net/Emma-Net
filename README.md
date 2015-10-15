@@ -1,10 +1,10 @@
 # EmmaNet
 A unified integrating framework for finding, building, and participating in non-exploitative, anti-capitalist alternatives to the goods, services, and organizations of capitalist society.
-EmmaNet
+
 Disclaimer: "socialism" as used in this document will refer to "non-exploitative and anti-capitalist", it is not used in the sense of favoring one flavor of leftism over another (as long as these flavors do not contradict the basic principles of 'non-exploitative' and 'anti-capitalist'; we do not think this is an unreasonable requirement).
 
 
-Goal:
+###Goal:
     The goal is to provide a unified integrating framework for finding, building, and participating in non-exploitative, anti-capitalist alternatives to the goods, services, and organizations of capitalist society.
     It would not be a website, or a particular organization, it would be a community of people devoted to the cause of ending discrimination and exploitation everywhere, and replacing capitalism with socialism as the basis for our society, along with 
 
@@ -14,7 +14,7 @@ Goal:
 
     c) the guiding principles which unite all of us towards these pursuits.
 
-
+---
 
     List of socialist companies, minority-owned/operated companies, noprofits, charities, individuals in need, as alternatives to capitalist ones
 
@@ -32,27 +32,34 @@ Goal:
 
     In stoopkid's opinion, capitalist society is inherently incapable of competing with us along these ends: there is no solidarity or unity under capitalism; individuals and organizations who would wish to do the same as this will (and do) find themselves at a complete loss for how to make it happen. This is because each individual and organization working selfishly and alone towards these ends simply increases the magnitude of the information overload to begin with, and receives no support from the rest. Even Google struggles to manage it. Our unity is our greatest advantage; an advantage which will never, can never (almost by definition) be shared by capitalists.
 
+---
 
-Background:
+###Background:
     Capitalism doesn't work. Centralized power in the hands of just "a few investors" very soon leads to a company that makes profits at the expense of everyone else. This is institutionalized sociopathy, and should be given no more credit than that as an idea for how to organize a society.
     Socialism is on the rise, but people don't know that services might have alternatives without said corruption/exploitation that happens in capitalism, and likewise, those who have the means to provide such services might not know how/where to direct their efforts in order to create these alternatives viably.
     Identifying these companies that care about everyone makes it possible for consumers to make conscious choices about what they use.
     
     
 Q: Who's project is this?
+
 A: It is ours.
+
 Q: If it's 'ours', then who is 'we'?
+
 A: The participating individuals and organizations, as a collective whole.
+
 Q: You mean you don't have a heirarchy of leadership???? How can that be??
+
 A: ... why would we? :)
 
-    04:31 <+yaraju> I don't trust any one man, or any committee to decide what's good for everyone. giving the power to any X, and assuming they will "do greater good" is plain folly, imho
+    "I don't trust any one man, or any committee to decide what's good for everyone. giving the power to any X, and assuming they will "do greater good" is plain folly, imho" -- some wise person
 
 
+---
 
+###Things to address:
 
-Things to address:
-    How do you get people to participate to make it work?
+How do you get people to participate to make it work?
 
         In stoopkid's opinion, many of the benefits that will come along with such a thing are self-incentivizing.
 
@@ -104,9 +111,9 @@ Things to address:
     -- socialist extraordinaire
 
 
+---
 
-
-The technical stuff:
+###The technical stuff:
 
     Decentralized and distributed application frameworks.
 
@@ -128,9 +135,9 @@ The technical stuff:
 
 
 
+---
 
-
-Links/Future Refs:
+###Links/Future Refs:
     http://nationbuilder.com/features
 "Why build an alternative to NationBuilder / what would we be looking for in such an alternative?"
 16:43 <+stoopkid> hm. take nationbuilder and decentralize it and have it 
@@ -142,7 +149,7 @@ Links/Future Refs:
 16:46 <+stoopkid> and that would just be a 'good start'
 
 
-Name:
+###Name:
 
     I think naming it after a non-male figure of social justice would be good. Some possibilities which have been suggested:
 
@@ -158,12 +165,10 @@ Name:
 
     food for thought: "The Tao which can be named is not the true Tao" -- Tao Te Ching (don't quote me on that)
 
+---
 
-Chat Area:
-    Hey again :)
-    hello! Back? Yep :) Off to a good start i see
-    Looks like it. :) But only got some pieces so far.... feel free to edit/add/fix, obviously. :P That's why we're here, rigth? :) Indeed :)
-    Incidentally, when we say "minorities", we should probably think about the different anti's on the channel in finding these.
+###Misc:
+	Incidentally, when we say "minorities", we should probably think about the different anti's on the channel in finding these.
 
         E.g. how about options for people with disabilities for using the platform? Should think about this from the first launch? Absolutely we should
 
