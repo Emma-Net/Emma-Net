@@ -9,11 +9,11 @@ The goal is to provide a unified integrating framework for finding, building, an
 
 It would not be a website, or a particular organization, it would be a community of people devoted to the cause of ending discrimination and exploitation everywhere, and replacing capitalism with socialism as the basis for our society, along with 
 
-    a) a network facilitating the interaction between members of the community, 
+* a network facilitating the interaction between members of the community, 
 
-    b) the tools necessary and useful for participating in this network and working towards these goals, and 
+* the tools necessary and useful for participating in this network and working towards these goals, and 
 
-    c) the guiding principles which unite all of us towards these pursuits.
+* the guiding principles which unite all of us towards these pursuits.
 
 ---
 
@@ -23,11 +23,11 @@ It would not be a website, or a particular organization, it would be a community
 
 * List of Politicians who represent our causes
 
-** Perhaps we can require politicians who claim to be representative of us to derive all actions taken from consensus of the community, for example through legally binding contract maintained by the community.
+* Perhaps we can require politicians who claim to be representative of us to derive all actions taken from consensus of the community, for example through legally binding contract maintained by the community.
 
 * General platform for education about non-exploitative, anti-capitalist alternatives
 
-** Also, transparency of interaction between participants
+* Also, transparency of interaction between participants
 
 * Currently our knowledge, resources, and activities are spread thin across many different sites, repositories, and organizations. This is but one of the many facets of the information overload. Effectively managing this puts us all into a better position to be aware and make informed decisions. 
 
@@ -102,55 +102,55 @@ And would also make the system much more efficient in general. Transparency of t
 
 ###The technical stuff:
 
-    Decentralized and distributed application frameworks.
+Decentralized and distributed application frameworks.
 
-    Q: Who has to pay for the servers to run this? 
+#####Q: Who has to pay for the servers to run this? 
 
-    A: Nobody! 
+A: Nobody! 
 
-    Q: How? Are you a wizard? 
+#####Q: How? Are you a wizard? 
 
-    A: No! This is just one of the many benefits of decentralized/distributed applications. Rather than donate money, people can donate computational resources like storage and processing to the network by running software to allow them to participate as a node in the network. Other benefits include: 
+A: No! This is just one of the many benefits of decentralized/distributed applications. Rather than donate money, people can donate computational resources like storage and processing to the network by running software to allow them to participate as a node in the network. Other benefits include: 
 
-    the removal of the necessity for centralized authority which would have a priveleged level of control, 
+* the removal of the necessity for centralized authority which would have a priveleged level of control, 
 
-    the ability for the community to manage this as a collective whole,
+* the ability for the community to manage this as a collective whole,
 
-    highly robust provision of services that comes from not having it provided exclusively through a single-point-of-failure (i.e. that centralized authority we've removed the need for)
-
-    IPFS
-
-
+* highly robust provision of services that comes from not having it provided exclusively through a single-point-of-failure (i.e. that centralized authority we've removed the need for)
 
 ---
 
 ###Links/Future Refs:
     http://nationbuilder.com/features
 "Why build an alternative to NationBuilder / what would we be looking for in such an alternative?"
+
 16:43 <+stoopkid> hm. take nationbuilder and decentralize it and have it 
                   collectively operated by socialists and driven towards 
                   socialistic ends. that would be a good start
+
 16:45 <+stoopkid> remove the need for this page: 
                   http://nationbuilder.com/pricing
+
 16:45 <+stoopkid> and cut out this middle-man: http://www.jimgilliam.com/
+
 16:46 <+stoopkid> and that would just be a 'good start'
 
 
 ###Name:
 
-    I think naming it after a non-male figure of social justice would be good. Some possibilities which have been suggested:
+I think naming it after a non-male figure of social justice would be good. Some possibilities which have been suggested:
 
-    Emma Goldman
+* Emma Goldman (the current namesake)
 
-    Assata Shakur
+* Assata Shakur
 
-    Wilma Mankiller
-
-
-    for expediency I've just been using "EmmaNet", but this is a decision for the community to make rather than myself.
+* Wilma Mankiller
 
 
-    food for thought: "The Tao which can be named is not the true Tao" -- Tao Te Ching (don't quote me on that)
+For expediency I've just been using "EmmaNet", but this is a decision for the community to make rather than myself.
+
+
+Food for thought: "The Tao which can be named is not the true Tao" -- Tao Te Ching (don't quote me on that)
 
 ---
 
