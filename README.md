@@ -35,9 +35,11 @@ Disclaimer: "socialism" as used in this document will refer to "non-exploitative
 ---
 
 ###Background:
-    Capitalism doesn't work. Centralized power in the hands of just "a few investors" very soon leads to a company that makes profits at the expense of everyone else. This is institutionalized sociopathy, and should be given no more credit than that as an idea for how to organize a society.
-    Socialism is on the rise, but people don't know that services might have alternatives without said corruption/exploitation that happens in capitalism, and likewise, those who have the means to provide such services might not know how/where to direct their efforts in order to create these alternatives viably.
-    Identifying these companies that care about everyone makes it possible for consumers to make conscious choices about what they use.
+Capitalism doesn't work. Centralized power in the hands of just "a few investors" very soon leads to a company that makes profits at the expense of everyone else. This is institutionalized sociopathy, and should be given no more credit than that as an idea for how to organize a society.
+
+Socialism is on the rise, but people don't know that services might have alternatives without said corruption/exploitation that happens in capitalism, and likewise, those who have the means to provide such services might not know how/where to direct their efforts in order to create these alternatives viably.
+
+Identifying these companies that care about everyone makes it possible for consumers to make conscious choices about what they use.
     
     
 Q: Who's project is this?
@@ -59,56 +61,40 @@ A: ... why would we? :)
 
 ###Things to address:
 
-How do you get people to participate to make it work?
+#### How do you get people to participate to make it work?
+In stoopkid's opinion, many of the benefits that will come along with such a thing are self-incentivizing.
 
-        In stoopkid's opinion, many of the benefits that will come along with such a thing are self-incentivizing.
+#### Crowd-source info, have a pre-vetted community of people from the minorities who approve the info?
 
-    A: Crowd-source info, have a pre-vetted community of people from the minorities who approve the info?
+In stoopkid's opinion: transparency > verification, but this does not preclude people from doing verification of information. However, the verification process should be made fully transparent. 
 
-        In stoopkid's opinion: transparency > verification, but this does not preclude people from doing verification of information. However, the verification process should be made fully transparent. 
+#### Always multiple people approving any piece of info?
 
-        Always multiple people approving any piece of info?
+The more people who approve a piece of information, the better.
 
-    The more people who approve a piece of information, the better.
+#### Mutual trust between participating individuals?
 
-    Mutual trust between participating individuals?
+Mutual trust and common direction is the ultimate foundation on which this rests. Full transparency of interactions of participants can bolster this trust.
 
-    Mutual trust and common direction is the ultimate foundation on which this rests.
+#### Contributions by actions, rather than just voting/donating?
+ i.e. 'do-ocracy'
 
-    Full transparency of interactions of participants can bolster this trust.
-
-    Contributions by actions, rather than just voting/donating? i.e. 'do-ocracy'
-
-    Motivate people to go through the platform to sign up for the "alernative services" by generating coupon codes or something? (Would give better metrics of reach of the platform)
+Motivate people to go through the platform to sign up for the "alernative services" by generating coupon codes or something? (Would give better metrics of reach of the platform)
 
     We might even have our own 'currency' :O
 
-    Transparency of these metrics could drive more people switching to these alternatives (as well as keep out those who we probably don't want :)
+Transparency of these metrics could drive more people switching to these alternatives (as well as keep out those who we probably don't want :)
 
     And would also make the system much more efficient in general. Transparency of things like "I have X" and "I need X" can allow for people to be linked together automatically. I'm not religious, but the aftermath in the story of the tower of Babel (i.e. everybody being split into different languages so that they could not communicate towards such ends) is very much like our current situation.Interesting point. Difference of culture/language shouldn't be barriers. Technology could potentially bridge such barriers as we have at least the common purpose of socialism.Absolutely. The way i sort of think of it is reversing the divide-and-conquer trick that's currently played on everybody.Yes. Instead of dividing, unite people.
 
-
-    "Distribute it under a license that they can't incorporate into their capitalist projects"
-
+"Distribute it under a license that they can't incorporate into their capitalist projects"
 
 
+"I think that's why particularly oppressed people need to get in first and establish the principles and structures that will ensure it isn't just some lowest common denominator populist shit"
+	-- enthusiastic community member
 
-    "I think that's why particularly oppressed people need to get 
-
-    in first and establish the principles and structures that will ensure 
-
-    it isn't just some lowest common denominator populist shit"
-
-    -- enthusiastic community member
-
-
-    "also TBH I would encourage if not require all co-ops to sooner or 
-
-    later merge economically into an integrated entity rather than 
-
-    disparate autonomous small businesses"
-
-    -- socialist extraordinaire
+"also TBH I would encourage if not require all co-ops to sooner or later merge economically into an integrated entity rather than disparate autonomous small businesses"
+	-- socialist extraordinaire
 
 
 ---
