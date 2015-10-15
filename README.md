@@ -17,7 +17,7 @@ It would not be a website, or a particular organization, it would be a community
 
 ---
 
-### More Goals
+### Some Notes
 
 * List of socialist companies, minority-owned/operated companies, noprofits, charities, individuals in need, as alternatives to capitalist ones
 
@@ -137,6 +137,7 @@ A: No! This is just one of the many benefits of decentralized/distributed applic
 
 16:46 <+stoopkid> and that would just be a 'good start'
 
+---
 
 ###Name:
 
