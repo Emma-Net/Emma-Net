@@ -4,6 +4,7 @@ A unified integrating framework for finding, building, and participating in non-
 Disclaimer: "socialism" as used in this document will refer to "non-exploitative and anti-capitalist", it is not used in the sense of favoring one flavor of leftism over another (as long as these flavors do not contradict the basic principles of 'non-exploitative' and 'anti-capitalist'; we do not think this is an unreasonable requirement).
 
 
+
 ###Goal:
 The goal is to provide a unified integrating framework for finding, building, and participating in non-exploitative, anti-capitalist alternatives to the goods, services, and organizations of capitalist society.
 
